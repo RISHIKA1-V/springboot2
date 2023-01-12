@@ -5,3 +5,4 @@ git clone---> is the one time process ,Hence make use of--> git pull
 Imp Note:While using below commands plz open git bash in the the local repo Only.
 git pull: Get updates from  remote repo to Local repo
 
+git status: to check the status of local repo
