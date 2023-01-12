@@ -1,1 +1,7 @@
 git clone https/ssh url
+In repostiory click on code --->go to ssh and copy the link and paste in bash as-->git clone link
+git clone---> is the one time process ,Hence make use of--> git pull 
+
+Imp Note:While using below commands plz open git bash in the the local repo Only.
+git pull: Get updates from  remote repo to Local repo
+
