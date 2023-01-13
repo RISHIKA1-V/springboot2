@@ -18,4 +18,6 @@
     This command is used to save the file in the path
     
 7. >>>>git push
-   This command is used to push the file into remote  repo which are present in the path
+  This command is used to push the file into remote  repo which are present in the path
+8.>>git branch BranchName
+    this command is used to create branch
